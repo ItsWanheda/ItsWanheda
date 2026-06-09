@@ -141,16 +141,14 @@ That’s why I like working on security from both sides:
 
 ## 📈 GitHub Stats
 
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsWanheda&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsWanheda&show_icons=true&theme=tokyonight&hide_border=true" alt="ItsWanheda GitHub Stats" />
 </p>
 
+### ⚡ GitHub Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsWanheda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsWanheda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsWanheda&theme=tokyonight&hide_border=true" alt="ItsWanheda GitHub Streak" />
 </p>
 
 ---
