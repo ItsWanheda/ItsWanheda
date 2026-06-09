@@ -139,19 +139,6 @@ That’s why I like working on security from both sides:
 
 ---
 
-### 📊 Summary Cards
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsWanheda&theme=tokyonight" alt="Profile details" />
-</p>
-
-
-### ⚡ GitHub Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsWanheda&theme=tokyonight&hide_border=true" alt="ItsWanheda GitHub Streak" />
-</p>
-
----
-
 ## 🧩 Fun Facts
 
 - I like **debugging** almost as much as building.
