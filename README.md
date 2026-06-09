@@ -139,9 +139,9 @@ That’s why I like working on security from both sides:
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Summary Cards
 <p align="center">
-  <img src="https://stats.muhammedtahirk.com/api?username=ItsWanheda&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsWanheda&theme=tokyonight" alt="Profile details" />
 </p>
 
 
