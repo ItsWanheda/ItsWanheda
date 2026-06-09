@@ -139,12 +139,11 @@ That’s why I like working on security from both sides:
 
 ---
 
-## 📈 GitHub Stats
-
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsWanheda&show_icons=true&theme=tokyonight&hide_border=true" alt="ItsWanheda GitHub Stats" />
+  <img src="https://stats.muhammedtahirk.com/api?username=ItsWanheda&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
 </p>
+
 
 ### ⚡ GitHub Streak Stats
 <p align="center">
