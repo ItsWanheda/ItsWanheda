@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=ItsWanheda&fontSize=42&fontColor=ffffff" alt="header" />
+</p>
 <!-- Banner / Header -->
 <h1 align="center">Hi, I'm ItsWanheda 👋</h1>
 <h3 align="center">Cybersecurity Enthusiast • Web Developer • Backend Builder • Malware Research Explorer</h3>
