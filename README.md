@@ -2,7 +2,7 @@
   <img src="assets/Header.png" alt="ItsWanheda Header" width="100%" />
 </p>
 <!-- Banner / Header -->
-<h1 align="center">Hi, I'm ItsWanheda 👋</h1>
+<h1 align="center">Hi, I'm Wanheda 👋</h1>
 <h3 align="center">Cybersecurity Enthusiast • Web Developer • Backend Builder • Malware Research Explorer</h3>
 
 <p align="center">
