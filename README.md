@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I’m **ItsWanheda**, a cybersecurity enthusiast and web developer focused on **secure systems**, **network technologies**, and **backend development**.
+I’m **Wanheda**, a cybersecurity enthusiast and web developer focused on **secure systems**, **network technologies**, and **backend development**.
 
 My curiosity is driven by one core question:
 
