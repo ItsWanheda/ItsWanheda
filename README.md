@@ -6,6 +6,11 @@
 <h3 align="center">Cybersecurity Enthusiast • Web Developer • Backend Builder • Malware Research Explorer</h3>
 
 <p align="center">
+<a href="https://portfolio-sigma-eight-51.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Research%20%26%20Defense-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-Development-0f172a?style=for-the-badge&logo=node.js&logoColor=green" />
   <img src="https://img.shields.io/badge/Go-Systems%20Programming-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
