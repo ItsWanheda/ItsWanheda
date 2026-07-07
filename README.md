@@ -157,7 +157,7 @@ That’s why I like working on security from both sides:
 
 ## 📬 Contact
 
-- GitHub: `https://github.com/ItsWaneda`
+- GitHub: `https://github.com/ItsWanheda`
 - Email: `wanheda.work@gmail.com`
 
 ---
