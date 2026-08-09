@@ -1,33 +1,22 @@
-<!-- ======================= BANNER ======================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=220&section=header&text=Wanheda&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Backend%20%7C%20Networking&descAlignY=58&descSize=18" width="100%"/>
+  <img src="Header.png" alt="ItsWanheda Header" width="100%" />
 </p>
 
-<!-- ======================= INTRO ======================= -->
-
-<h1 align="center">
-  Hey, I'm Wanheda 👋
-</h1>
+<!-- Banner / Header -->
+<h1 align="center">Hi, I'm Wanheda 👋</h1>
+<h3 align="center">Cybersecurity Enthusiast • Web Developer • Backend Builder • Malware Research Explorer</h3>
 
 <p align="center">
-  <b>Cybersecurity Enthusiast</b> ·
-  <b>Backend Developer</b> ·
-  <b>Web Developer</b> ·
-  <b>Networking Explorer</b>
-</p>
-
-<p align="center">
-  <i>Understanding systems from the inside out.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ItsWanheda">
-    <img src="https://komarev.com/ghpvc/?username=ItsWanheda&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://ItsWanheda.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/ItsWanheda?tab=followers">
-    <img src="https://img.shields.io/github/followers/ItsWanheda?label=Followers&style=flat&color=111827" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Research%20%26%20Defense-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Development-0f172a?style=for-the-badge&logo=node.js&logoColor=green" />
+  <img src="https://img.shields.io/badge/Go-Systems%20Programming-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-Modern%20Web-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---
@@ -35,92 +24,80 @@
 ## 👨‍💻 About Me
 
 I'm **Wanheda**, a developer fascinated by what happens **beneath the surface of software and networks**.
-
 I like taking systems apart, understanding how their components communicate, discovering where things can fail, and then using that knowledge to build them better.
 
+A cybersecurity enthusiast and web developer focused on **secure systems**, **network technologies**, and **backend development**, my curiosity is driven by one core question:
+
+> **How do systems work, how do they fail, and how do we build them better?**
+
 My interests sit at the intersection of:
-
 **Cybersecurity × Backend Engineering × Networking × Systems**
-
-My curiosity usually starts with one question:
-
-> **How does this actually work under the hood?**
-
-From there, I like to experiment, break things in controlled environments, investigate the results, and turn what I learn into practical software.
 
 ---
 
 ## 🧠 What I'm Interested In
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🔐 Cybersecurity
-
-* Malware analysis
-* Threat detection
-* Defensive engineering
-* Network security
-* Web security
-* Security architecture
-* Attack surface analysis
-* Persistence & execution behavior
-
-</td>
-
-<td width="50%">
+- Malware analysis & threat detection
+- Defensive engineering
+- Network & web security
+- Security architecture & attack surface analysis
+- Persistence & execution behavior
+- Spyware behavior, detection, and defense
 
 ### ⚙️ Systems & Engineering
-
-* System internals
-* Processes & execution flow
-* Networking
-* Backend architecture
-* APIs & authentication
-* Automation
-* Security tooling
-* Performance & reliability
-
-</td>
-</tr>
-</table>
+- System internals & low-level thinking
+- Processes, memory, and execution flow
+- File behavior and persistence
+- Networking & traffic analysis
+- Backend architecture & APIs
+- Authentication systems
+- Automation & security tooling
+- Performance & reliability
 
 ---
 
 ## 🛠️ Technology Stack
 
 ### 💻 Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,go,cpp" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ### 🌐 Frontend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ### ⚙️ Backend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </p>
 
 ### 🗄️ Databases & Infrastructure
-
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,linux,git,github" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-2E2E2E?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### 🔧 Other Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/REST%20API-111827?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-111827?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-111827?style=for-the-badge&logo=cisco&logoColor=white" />
+### 🔧 Tools & Environments
+<p>
+  <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Void%20Linux-478061?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ---
@@ -144,93 +121,81 @@ From there, I like to experiment, break things in controlled environments, inves
 └─────────────────────────────────────────────────────────────┘
 ```
 
+I'm deeply focused on:
+* How malware spreads through files and systems
+* How viruses execute, replicate, and damage environments
+* Building secure-by-design applications
+* Studying network technologies and traffic behavior
+
 ---
 
 ## 🚀 Things I Like Building
 
-I learn best by **building real things**.
-
-Some of the areas I'm working around:
-
-| Area             | What I Build                                              |
-| ---------------- | --------------------------------------------------------- |
-| 🔐 Cybersecurity | Security utilities, analysis tools & defensive software   |
-| 🌐 Networking    | Network utilities, traffic analysis & communication tools |
-| ⚙️ Backend       | REST APIs, authentication systems & real-time services    |
-| 🧩 Systems       | Go utilities, system information & low-level tooling      |
-| 🎨 Web           | Responsive interfaces, dashboards & developer tools       |
-| 🛠️ Automation   | Scripts and tools that remove repetitive work             |
+I learn best by **building real things**. Some of the areas I'm working around:
+| Area | What I Build |
+| --- | --- |
+| 🔐 Cybersecurity | Security utilities, analysis tools & defensive software |
+| 🌐 Networking | Network utilities, traffic analysis & communication tools |
+| ⚙️ Backend | REST APIs, authentication systems & real-time services |
+| 🧩 Systems | Go utilities, system information & low-level tooling |
+| 🎨 Web | Responsive interfaces, dashboards & developer tools |
+| 🛠️ Automation | Scripts and tools that remove repetitive work |
 
 ---
 
 ## 📌 Featured Projects
 
-> More projects are continuously being built and documented.
+<p align="center">
+  <a href="https://github.com/ItsWanheda/SpectraScan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsWanheda&repo=SpectraScan&theme=tokyonight&hide_border=true" />
+  </a>
 
-### 🔐 Security & Systems
+  <a href="https://github.com/ItsWanheda/Auth-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsWanheda&repo=Auth-API&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-* **HTTP Header Analyzer** — Analyze HTTP security headers and identify potential security issues.
-* **Network Topology Mapper** — Explore and visualize network structures.
-* **System Information Tool** — Collect and inspect system information through a lightweight utility.
+<p align="center">
+  <a href="https://github.com/ItsWanheda/NEXUS-UI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsWanheda&repo=NEXUS-UI&theme=tokyonight&hide_border=true" />
+  </a>
 
-### ⚙️ Backend & Web
+  <a href="https://github.com/ItsWanheda/REGEX-PRO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsWanheda&repo=REGEX-PRO&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-* **Auth API** — Secure authentication backend with modern token-based authentication.
-* **FlowDo** — Backend-oriented application focused on API design and data management.
-* **Developer Tools** — Small utilities designed to solve practical development problems.
+<p align="center">
+  <a href="https://github.com/ItsWanheda/expense-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsWanheda&repo=expense-tracker&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/ItsWanheda?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ## 🧭 My Engineering Philosophy
-
-<p align="center">
-  <b>LEARN → BUILD → BREAK → UNDERSTAND → SECURE → IMPROVE</b>
-</p>
+> **Learn. Build. Secure. Improve.**
 
 I believe you understand a system much better when you know:
-
 * how it is built
 * how its components communicate
 * how it can fail
 * how it can be abused
 * and how it can be made more resilient
 
-That's why I enjoy looking at technology from different perspectives.
+That's why I like working on security from both sides:
+* exploring attack patterns
+* understanding real-world weaknesses
+* designing stronger defenses
+* turning knowledge into practical tools
 
-**Build it.**
-
-**Understand it.**
-
-**Test it.**
-
-**Secure it.**
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsWanheda&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsWanheda&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsWanheda&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ItsWanheda/ItsWanheda/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
+The strongest engineers are the ones who understand both **how to create systems** and **how those systems can be attacked**.
 
 ---
 
@@ -238,23 +203,30 @@ That's why I enjoy looking at technology from different perspectives.
 
 When I'm not building something, you'll probably find me:
 
-🎮 Playing games
-🌌 Looking at the sky
-🐧 Exploring Linux
-🧪 Experimenting with random technical ideas
-🔍 Going down another cybersecurity rabbit hole
+* 🎮 Playing games
+* 🌌 Looking at the sky
+* 🐧 Exploring Linux
+* 🧪 Experimenting with random technical ideas
+* 🔍 Going down another cybersecurity rabbit hole
+
+Fun facts:
+* I like debugging almost as much as building.
+* I use Linux because I enjoy control, flexibility, and speed.
+* I keep Windows around... mostly for fun 😂
+* I enjoy exploring the internals of software, not just the surface.
+* I like turning complicated systems into understandable pieces.
 
 ---
 
 ## 🎯 Long-Term Goals
 
-* Build production-grade cybersecurity tools
-* Become highly proficient in network security
-* Go deeper into systems programming
-* Master Go for security and backend tooling
-* Improve secure backend architecture
-* Explore reverse engineering and malware analysis
-* Contribute meaningfully to open source
+* Build **production-grade cybersecurity tools**
+* Become highly proficient in **network security**
+* Master **Go** for security and backend tooling
+* Go deeper into **systems programming** and reverse engineering
+* Improve **secure backend architecture**
+* Explore **malware analysis** in depth
+* Contribute meaningfully to **open source**
 * Build software that is actually useful
 
 ---
@@ -262,29 +234,13 @@ When I'm not building something, you'll probably find me:
 ## 📫 Connect
 
 <p align="center">
-
-<a href="https://github.com/ItsWanheda">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  
+<a href="https://ItsWanheda.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-View_My_Work-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
-<a href="mailto:wanheda.work@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://github.com/ItsWanheda"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-</p>
+<a href="mailto:wanheda.work@gmail.com"> <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
----
-
-<p align="center">
-  <i>"The deeper you understand the system, the harder it becomes to surprise you."</i>
-</p>
-
-<p align="center">
-  <b>⚔️ Build systems. Understand systems. Secure systems.</b>
-</p>
-
-<!-- ======================= FOOTER ======================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=120&section=footer"/>
 </p>
