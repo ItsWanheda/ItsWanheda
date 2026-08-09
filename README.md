@@ -235,9 +235,7 @@ Fun facts:
 
 <p align="center">
   
-<a href="https://ItsWanheda.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-View_My_Work-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
+<a href="https://itswanheda.vercel.app/"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 <a href="https://github.com/ItsWanheda"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
