@@ -142,8 +142,6 @@ I learn best by **building real things**. Some of the areas I'm working around:
 
 ## 📌 Featured Projects
 
-## 📌 Featured Projects
-
 <table>
   <tr>
     <td width="50%">
