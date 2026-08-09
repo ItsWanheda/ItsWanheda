@@ -188,7 +188,7 @@ I learn best by **building real things**. Some of the areas I'm working around:
       <p align="center">
         <img src="https://img.shields.io/badge/Type-Tool-orange?style=flat-square" />
         <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stack-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
       <p align="center">Developer tool for testing, building, and visualizing regular expressions.</p>
     </td>
@@ -201,7 +201,7 @@ I learn best by **building real things**. Some of the areas I'm working around:
       <p align="center">
         <img src="https://img.shields.io/badge/Type-Backend-green?style=flat-square" />
         <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stack-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
       <p align="center">Lightweight application for tracking and managing expenses.</p>
     </td>
