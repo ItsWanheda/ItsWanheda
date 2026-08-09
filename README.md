@@ -142,31 +142,71 @@ I learn best by **building real things**. Some of the areas I'm working around:
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ItsWanheda/SpectraScan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsWanheda&repo=SpectraScan&theme=tokyonight&hide_border=true" />
-  </a>
+## 📌 Featured Projects
 
-  <a href="https://github.com/ItsWanheda/Auth-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsWanheda&repo=Auth-API&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ItsWanheda/NEXUS-UI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsWanheda&repo=NEXUS-UI&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/ItsWanheda/REGEX-PRO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsWanheda&repo=REGEX-PRO&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ItsWanheda/expense-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsWanheda&repo=expense-tracker&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/ItsWanheda/SpectraScan">
+        <h3 align="center">🛡️ SpectraScan</h3>
+      </a>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Type-Cybersecurity-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      </p>
+      <p align="center">A security analysis tool built for inspecting and evaluating system behavior.</p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/ItsWanheda/Auth-API">
+        <h3 align="center">🔐 Auth-API</h3>
+      </a>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Type-Backend-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+      <p align="center">Secure authentication backend with modern token-based authentication.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/ItsWanheda/NEXUS-UI">
+        <h3 align="center">🎨 NEXUS-UI</h3>
+      </a>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Type-Frontend-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <p align="center">Modern UI components and frontend workflow utilities.</p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/ItsWanheda/REGEX-PRO">
+        <h3 align="center">🔍 REGEX-PRO</h3>
+      </a>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Type-Tool-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <p align="center">Developer tool for testing, building, and visualizing regular expressions.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/ItsWanheda/expense-tracker">
+        <h3 align="center">💸 expense-tracker</h3>
+      </a>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Type-Backend-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+      <p align="center">Lightweight application for tracking and managing expenses.</p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/ItsWanheda?tab=repositories">
@@ -232,9 +272,6 @@ Fun facts:
 
 <p align="center">
   
-<a href="https://itswanheda.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a>
-
 <a href="https://github.com/ItsWanheda"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 <a href="mailto:wanheda.work@gmail.com"> <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
