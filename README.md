@@ -151,7 +151,7 @@ I learn best by **building real things**. Some of the areas I'm working around:
       <p align="center">
         <img src="https://img.shields.io/badge/Type-Cybersecurity-red?style=flat-square" />
         <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stack-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
       <p align="center">A security analysis tool built for inspecting and evaluating system behavior.</p>
     </td>
