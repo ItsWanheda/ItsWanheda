@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Header.png" alt="ItsWanheda Header" width="100%" />
+  <img src="Header.png" alt="Header" width="100%" />
 </p>
 
 <!-- Banner / Header -->
