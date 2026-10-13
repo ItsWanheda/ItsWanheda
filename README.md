@@ -1,277 +1,195 @@
 <p align="center">
-  <img src="Header.png" alt="Header" width="100%" />
+  <img src="Header.png" alt="Wanheda — cybersecurity, backend engineering, and systems" width="100%" />
 </p>
 
-<!-- Banner / Header -->
-<h1 align="center">Hi, I'm Wanheda 👋</h1>
-<h3 align="center">Cybersecurity Enthusiast • Web Developer • Backend Builder • Malware Research Explorer</h3>
+<h1 align="center">WANHEDA</h1>
+<h3 align="center">Cybersecurity · Backend Engineering · Networking · Systems</h3>
 
 <p align="center">
-    <a href="https://ItsWanheda.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://itswanheda.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-8B0000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <img src="https://img.shields.io/badge/Cybersecurity-Research%20%26%20Defense-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Development-0f172a?style=for-the-badge&logo=node.js&logoColor=green" />
-  <img src="https://img.shields.io/badge/Go-Systems%20Programming-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-Modern%20Web-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+  <a href="https://github.com/ItsWanheda?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" />
+  </a>
+  <a href="mailto:wanheda.work@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Defensive%20Security-B91C1C?style=flat-square" alt="Defensive security" />
+  <img src="https://img.shields.io/badge/Build-Backend%20%26%20Systems-27272A?style=flat-square" alt="Backend and systems" />
+  <img src="https://img.shields.io/badge/Learning-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Learning Go" />
+  <img src="https://img.shields.io/badge/Learning-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Learning TypeScript" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm **Wanheda**, a developer fascinated by what happens **beneath the surface of software and networks**.
-I like taking systems apart, understanding how their components communicate, discovering where things can fail, and then using that knowledge to build them better.
+I'm a developer interested in what happens **beneath the surface of software and networks**: how systems are designed, how components communicate, where failures emerge, and how to make applications more secure and reliable.
 
-A cybersecurity enthusiast and web developer focused on **secure systems**, **network technologies**, and **backend development**, my curiosity is driven by one core question:
+My work and learning sit at the intersection of:
 
-> **How do systems work, how do they fail, and how do we build them better?**
+- **Cybersecurity** — security analysis, defensive tooling, web security, and threat behavior.
+- **Backend engineering** — APIs, authentication, application architecture, and data-driven services.
+- **Networking and systems** — protocols, traffic behavior, operating systems, and practical utilities.
+- **Developer tooling** — automation and focused tools that make technical work easier.
 
-My interests sit at the intersection of:
-**Cybersecurity × Backend Engineering × Networking × Systems**
+> **Understand the system. Find the weakness. Build the defense.**
 
----
+I learn by building, testing, debugging, documenting, and iterating on real projects.
 
-## 🧠 What I'm Interested In
+## Focus Areas
 
-### 🔐 Cybersecurity
-- Malware analysis & threat detection
-- Defensive engineering
-- Network & web security
-- Security architecture & attack surface analysis
-- Persistence & execution behavior
-- Spyware behavior, detection, and defense
-
-### ⚙️ Systems & Engineering
-- System internals & low-level thinking
-- Processes, memory, and execution flow
-- File behavior and persistence
-- Networking & traffic analysis
-- Backend architecture & APIs
-- Authentication systems
-- Automation & security tooling
-- Performance & reliability
-
----
-
-## 🛠️ Technology Stack
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-</p>
-
-### 🗄️ Databases & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-2E2E2E?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### 🔧 Tools & Environments
-<p>
-  <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Void%20Linux-478061?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
----
-
-## 🔥 Currently Exploring
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                      CURRENT FOCUS                           │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  🔐 Cybersecurity & Defensive Engineering                   │
-│  🦠 Malware Behavior & Analysis                             │
-│  🕵️ Detection & Persistence Techniques                       │
-│  🌐 Network Traffic & Communication                         │
-│  ⚙️ Go Security & Systems Tooling                            │
-│  🟦 TypeScript + Node.js Backend                            │
-│  🏗️ Secure Application Architecture                         │
-│  🧩 Operating Systems & System Internals                    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-I'm deeply focused on:
-* How malware spreads through files and systems
-* How viruses execute, replicate, and damage environments
-* Building secure-by-design applications
-* Studying network technologies and traffic behavior
-
----
-
-## 🚀 Things I Like Building
-
-I learn best by **building real things**. Some of the areas I'm working around:
-| Area | What I Build |
+| Area | What I'm exploring |
 | --- | --- |
-| 🔐 Cybersecurity | Security utilities, analysis tools & defensive software |
-| 🌐 Networking | Network utilities, traffic analysis & communication tools |
-| ⚙️ Backend | REST APIs, authentication systems & real-time services |
-| 🧩 Systems | Go utilities, system information & low-level tooling |
-| 🎨 Web | Responsive interfaces, dashboards & developer tools |
-| 🛠️ Automation | Scripts and tools that remove repetitive work |
+| 🔐 Security engineering | Attack-surface awareness, secure design, defensive analysis, and practical security tools |
+| 🧪 Malware research | Understanding execution and persistence behavior in controlled, authorized research environments |
+| 🌐 Networking | Protocols, traffic inspection, network utilities, and communication between systems |
+| ⚙️ Backend systems | REST APIs, authentication, validation, reliability, and maintainable architecture |
+| 🧩 Systems programming | Operating-system concepts, system behavior, and tooling with Go |
+| 🛠️ Automation | Small utilities that reduce repetitive work and improve developer workflows |
 
----
+## Technology
 
-## 📌 Featured Projects
+<p>
+  <strong>Languages</strong><br />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+</p>
+
+<p>
+  <strong>Frontend</strong><br />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+
+<p>
+  <strong>Backend and data</strong><br />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+<p>
+  <strong>Tools and environments</strong><br />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+</p>
+
+*Stack badges describe technologies I use or explore; they are not a claim of equal proficiency in every tool.*
+
+## Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/ItsWanheda/SpectraScan">
-        <h3 align="center">🛡️ SpectraScan</h3>
-      </a>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Type-Cybersecurity-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-      <p align="center">A security analysis tool built for inspecting and evaluating system behavior.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ItsWanheda/SpectraScan">🛡️ SpectraScan</a></h3>
+      Security-focused Python project for inspecting and analyzing technical signals and system behavior.
+      <br /><br />
+      <a href="https://github.com/ItsWanheda/SpectraScan"><img src="https://img.shields.io/badge/Explore-Repository-8B0000?style=flat-square&logo=github&logoColor=white" alt="Explore SpectraScan" /></a>
     </td>
-    <td width="50%">
-      <a href="https://github.com/ItsWanheda/Auth-API">
-        <h3 align="center">🔐 Auth-API</h3>
-      </a>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Type-Backend-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
-      <p align="center">Secure authentication backend with modern token-based authentication.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ItsWanheda/mern-ecommerce">🛒 MERN E-Commerce</a></h3>
+      Full-stack storefront project built around a React frontend and a Node.js/Express API, with MongoDB-backed application data.
+      <br /><br />
+      <a href="https://github.com/ItsWanheda/mern-ecommerce"><img src="https://img.shields.io/badge/Explore-Repository-8B0000?style=flat-square&logo=github&logoColor=white" alt="Explore MERN E-Commerce" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/ItsWanheda/NEXUS-UI">
-        <h3 align="center">🎨 NEXUS-UI</h3>
-      </a>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Type-Frontend-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-      <p align="center">Modern UI components and frontend workflow utilities.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ItsWanheda/mern-estate">🏠 MERN Estate</a></h3>
+      A real-estate web application focused on property listings, account flows, and full-stack application development.
+      <br /><br />
+      <a href="https://github.com/ItsWanheda/mern-estate"><img src="https://img.shields.io/badge/Explore-Repository-8B0000?style=flat-square&logo=github&logoColor=white" alt="Explore MERN Estate" /></a>
     </td>
-    <td width="50%">
-      <a href="https://github.com/ItsWanheda/REGEX-PRO">
-        <h3 align="center">🔍 REGEX-PRO</h3>
-      </a>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Type-Tool-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-      <p align="center">Developer tool for testing, building, and visualizing regular expressions.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ItsWanheda/Auth-API">🔐 Auth-API</a></h3>
+      A backend-focused project for exploring authentication flows and the foundations of secure API access.
+      <br /><br />
+      <a href="https://github.com/ItsWanheda/Auth-API"><img src="https://img.shields.io/badge/Explore-Repository-8B0000?style=flat-square&logo=github&logoColor=white" alt="Explore Auth-API" /></a>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <a href="https://github.com/ItsWanheda/expense-tracker">
-        <h3 align="center">💸 expense-tracker</h3>
-      </a>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Type-Backend-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-      <p align="center">Lightweight application for tracking and managing expenses.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ItsWanheda/http-header-analyzer">🔎 HTTP Header Analyzer</a></h3>
+      A focused tool for examining HTTP response headers and learning about web configuration and security signals.
+      <br /><br />
+      <a href="https://github.com/ItsWanheda/http-header-analyzer"><img src="https://img.shields.io/badge/Explore-Repository-8B0000?style=flat-square&logo=github&logoColor=white" alt="Explore HTTP Header Analyzer" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ItsWanheda/REGEX-PRO">🧩 REGEX-PRO</a></h3>
+      A developer utility for working with regular expressions and making pattern experimentation more approachable.
+      <br /><br />
+      <a href="https://github.com/ItsWanheda/REGEX-PRO"><img src="https://img.shields.io/badge/Explore-Repository-8B0000?style=flat-square&logo=github&logoColor=white" alt="Explore REGEX-PRO" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ItsWanheda/LanSpeed">📡 LanSpeed</a></h3>
+      A local-network speed testing utility designed to measure throughput between devices on the same LAN.
+      <br /><br />
+      <a href="https://github.com/ItsWanheda/LanSpeed"><img src="https://img.shields.io/badge/Explore-Repository-8B0000?style=flat-square&logo=github&logoColor=white" alt="Explore LanSpeed" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ItsWanheda/expense-tracker">💸 Expense Tracker</a></h3>
+      A Python application for tracking expenses and exploring practical financial summaries and reporting.
+      <br /><br />
+      <a href="https://github.com/ItsWanheda/expense-tracker"><img src="https://img.shields.io/badge/Explore-Repository-8B0000?style=flat-square&logo=github&logoColor=white" alt="Explore Expense Tracker" /></a>
     </td>
   </tr>
 </table>
 
 <p align="center">
   <a href="https://github.com/ItsWanheda?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/More%20Projects-View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
   </a>
 </p>
 
----
+## Currently Exploring
 
-## 🧭 My Engineering Philosophy
-> **Learn. Build. Secure. Improve.**
+- **Defensive security:** turning security concepts into practical analysis and defensive tooling.
+- **Network behavior:** understanding protocols, traffic, and communication between services.
+- **Go:** building efficient command-line utilities and systems-oriented tools.
+- **TypeScript:** writing clearer, safer application and backend code.
+- **Secure architecture:** strengthening validation, authentication, configuration, and failure handling.
 
-I believe you understand a system much better when you know:
-* how it is built
-* how its components communicate
-* how it can fail
-* how it can be abused
-* and how it can be made more resilient
+## Engineering Principles
 
-That's why I like working on security from both sides:
-* exploring attack patterns
-* understanding real-world weaknesses
-* designing stronger defenses
-* turning knowledge into practical tools
+- **Understand before optimizing.** Learn how a system behaves before changing it.
+- **Secure by design.** Treat validation, permissions, and failure paths as core features.
+- **Prefer useful simplicity.** Build focused tools with clear responsibilities.
+- **Test and document.** Make behavior reproducible and easier for others to understand.
+- **Keep improving.** Use debugging and feedback as part of the development process.
 
-The strongest engineers are the ones who understand both **how to create systems** and **how those systems can be attacked**.
+## Beyond the Terminal
 
----
+When I'm away from a project, I enjoy exploring Linux, playing games, looking at the night sky, and following technical rabbit holes that turn into new experiments.
 
-## ⚡ Beyond Code
-
-When I'm not building something, you'll probably find me:
-
-* 🎮 Playing games
-* 🌌 Looking at the sky
-* 🐧 Exploring Linux
-* 🧪 Experimenting with random technical ideas
-* 🔍 Going down another cybersecurity rabbit hole
-
-Fun facts:
-* I like debugging almost as much as building.
-* I use Linux because I enjoy control, flexibility, and speed.
-* I keep Windows around... mostly for fun 😂
-* I enjoy exploring the internals of software, not just the surface.
-* I like turning complicated systems into understandable pieces.
-
----
-
-## 🎯 Long-Term Goals
-
-* Build **production-grade cybersecurity tools**
-* Become highly proficient in **network security**
-* Master **Go** for security and backend tooling
-* Go deeper into **systems programming** and reverse engineering
-* Improve **secure backend architecture**
-* Explore **malware analysis** in depth
-* Contribute meaningfully to **open source**
-* Build software that is actually useful
-
----
-
-## 📫 Connect
+## Connect
 
 <p align="center">
-  
-<a href="https://github.com/ItsWanheda"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-<a href="mailto:wanheda.work@gmail.com"> <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-
+  <a href="https://itswanheda.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/ItsWanheda">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:wanheda.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
+<p align="center"><sub>Learn continuously. Build deliberately. Secure what matters.</sub></p>
