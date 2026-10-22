@@ -82,7 +82,7 @@ I learn by building, testing, debugging, documenting, and iterating on practical
       <h3><a href="https://github.com/ItsWanheda/http-header-analyzer">🔎 HTTP Header Analyzer</a></h3>
       <p>A focused tool for examining HTTP response headers and understanding web configuration and security signals.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/ItsWanheda/http-header-analyzer?style=flat-square&label=LANGUAGE&color=7F1D1D" alt="Primary programming language" />
+        <img src="https://img.shields.io/github/languages/top/ItsWanheda/http-header-analyzer?style=flat-square&label=TOP%20LANGUAGE&color=7F1D1D" alt="Top language used in HTTP Header Analyzer" />
         <a href="https://github.com/ItsWanheda/http-header-analyzer"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-E33B4F?style=flat-square&logo=github&logoColor=white" alt="View HTTP Header Analyzer" /></a>
       </p>
     </td>
@@ -90,7 +90,7 @@ I learn by building, testing, debugging, documenting, and iterating on practical
       <h3><a href="https://github.com/ItsWanheda/SpectraScan">🛡️ SpectraScan</a></h3>
       <p>A security-focused project for inspecting and analyzing technical signals and system behavior.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/ItsWanheda/SpectraScan?style=flat-square&label=LANGUAGE&color=7F1D1D" alt="Primary programming language" />
+        <img src="https://img.shields.io/github/languages/top/ItsWanheda/SpectraScan?style=flat-square&label=TOP%20LANGUAGE&color=7F1D1D" alt="Top language used in SpectraScan" />
         <a href="https://github.com/ItsWanheda/SpectraScan"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-E33B4F?style=flat-square&logo=github&logoColor=white" alt="View SpectraScan" /></a>
       </p>
     </td>
@@ -100,7 +100,7 @@ I learn by building, testing, debugging, documenting, and iterating on practical
       <h3><a href="https://github.com/ItsWanheda/mern-ecommerce">🛒 MERN E-Commerce</a></h3>
       <p>A full-stack storefront built around a React frontend, Node.js/Express API, and MongoDB-backed application data.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/ItsWanheda/mern-ecommerce?style=flat-square&label=LANGUAGE&color=7F1D1D" alt="Primary programming language" />
+        <img src="https://img.shields.io/github/languages/top/ItsWanheda/mern-ecommerce?style=flat-square&label=TOP%20LANGUAGE&color=7F1D1D" alt="Top language used in MERN E-Commerce" />
         <a href="https://github.com/ItsWanheda/mern-ecommerce"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-E33B4F?style=flat-square&logo=github&logoColor=white" alt="View MERN E-Commerce" /></a>
       </p>
     </td>
@@ -108,7 +108,7 @@ I learn by building, testing, debugging, documenting, and iterating on practical
       <h3><a href="https://github.com/ItsWanheda/Telegram-Download-Manager">⚡ Telegram Download Manager</a></h3>
       <p>An asynchronous download engine featuring resumable multipart transfers, persistent SQLite job tracking, SHA-256 integrity verification, retry handling, and automated Telegram uploads.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/ItsWanheda/Telegram-Download-Manager?style=flat-square&label=LANGUAGE&color=7F1D1D" alt="Primary programming language" />
+        <img src="https://img.shields.io/github/languages/top/ItsWanheda/Telegram-Download-Manager?style=flat-square&label=TOP%20LANGUAGE&color=7F1D1D" alt="Top language used in Telegram Download Manager" />
         <a href="https://github.com/ItsWanheda/Telegram-Download-Manager"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-E33B4F?style=flat-square&logo=github&logoColor=white" alt="View Telegram Download Manager" /></a>
       </p>
     </td>
@@ -118,7 +118,7 @@ I learn by building, testing, debugging, documenting, and iterating on practical
       <h3><a href="https://github.com/ItsWanheda/REGEX-PRO">🧩 REGEX-PRO</a></h3>
       <p>A developer utility for working with regular expressions and making pattern experimentation more approachable.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/ItsWanheda/REGEX-PRO?style=flat-square&label=LANGUAGE&color=7F1D1D" alt="Primary programming language" />
+        <img src="https://img.shields.io/github/languages/top/ItsWanheda/REGEX-PRO?style=flat-square&label=TOP%20LANGUAGE&color=7F1D1D" alt="Top language used in REGEX-PRO" />
         <a href="https://github.com/ItsWanheda/REGEX-PRO"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-E33B4F?style=flat-square&logo=github&logoColor=white" alt="View REGEX-PRO" /></a>
       </p>
     </td>
@@ -126,7 +126,7 @@ I learn by building, testing, debugging, documenting, and iterating on practical
       <h3><a href="https://github.com/ItsWanheda/LanSpeed">📡 LanSpeed</a></h3>
       <p>A local-network speed-testing utility designed to measure throughput between devices on the same LAN.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/ItsWanheda/LanSpeed?style=flat-square&label=LANGUAGE&color=7F1D1D" alt="Primary programming language" />
+        <img src="https://img.shields.io/github/languages/top/ItsWanheda/LanSpeed?style=flat-square&label=TOP%20LANGUAGE&color=7F1D1D" alt="Top language used in LanSpeed" />
         <a href="https://github.com/ItsWanheda/LanSpeed"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-E33B4F?style=flat-square&logo=github&logoColor=white" alt="View LanSpeed" /></a>
       </p>
     </td>
@@ -134,17 +134,17 @@ I learn by building, testing, debugging, documenting, and iterating on practical
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ItsWanheda/Auth-API">🔐 Auth-API</a></h3>
-      <p>A security-first authentication API featuring JWTs, refresh tokens, email verification, rate limiting, and layered architecture.</p>
+      <p>A backend-focused project for exploring authentication flows and the foundations of secure API access.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/ItsWanheda/Auth-API?style=flat-square&label=LANGUAGE&color=7F1D1D" alt="Primary programming language" />
+        <img src="https://img.shields.io/github/languages/top/ItsWanheda/Auth-API?style=flat-square&label=TOP%20LANGUAGE&color=7F1D1D" alt="Top language used in Auth-API" />
         <a href="https://github.com/ItsWanheda/Auth-API"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-E33B4F?style=flat-square&logo=github&logoColor=white" alt="View Auth-API" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ItsWanheda/expense-tracker">💸 Expense Tracker</a></h3>
-      <p>A Python application for tracking expenses, managing budgets, storing financial data in SQLite, and visualizing spending through a web dashboard.</p>
+      <p>A Python application for tracking expenses and exploring practical financial summaries and reporting.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/ItsWanheda/expense-tracker?style=flat-square&label=LANGUAGE&color=7F1D1D" alt="Primary programming language" />
+        <img src="https://img.shields.io/github/languages/top/ItsWanheda/expense-tracker?style=flat-square&label=TOP%20LANGUAGE&color=7F1D1D" alt="Top language used in Expense Tracker" />
         <a href="https://github.com/ItsWanheda/expense-tracker"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-E33B4F?style=flat-square&logo=github&logoColor=white" alt="View Expense Tracker" /></a>
       </p>
     </td>
