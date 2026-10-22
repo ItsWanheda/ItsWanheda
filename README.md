@@ -166,14 +166,6 @@ I learn by building, testing, debugging, documenting, and iterating on practical
   </a>
 </p>
 
-
-
-<p align="center">
-  <a href="https://github.com/ItsWanheda?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-171A21?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
-  </a>
-</p>
-
 ## 04 · Technology Stack
 
 **Languages**
